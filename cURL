@@ -1,0 +1,2 @@
+curl -X POST  -H "accept:application/json, text/plain, */*" -H "content-type:application/json" https://portal-lfh-dev.lottefinance.vn/lottefinance-hub/api/authenticate -d '{"username":"037097007544","password":"Lotte@123"}'
+curl -H "accept:application/json, text/plain, */*" -H "authorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIwMzcwOTcwMDc1NDQiLCJleHAiOjE3NjY1NDgwNTQsImlhdCI6MTc2NjQ2MTY1NCwic3RhdHVzIjoiYWN0aXZlIn0.ttBHdwOsJ1AJvXEiCJgw2T1zb0SNrk1q8UPO2r8ax7_HVotZxVb-_tnQgVao9mflfHOmzKgxvtgYSyVXeqhucw" https://portal-lfh-dev.lottefinance.vn/lottefinance-hub/api/account
